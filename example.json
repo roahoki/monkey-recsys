@@ -1,0 +1,55 @@
+{
+    "A30Q8X8B1S3GGT": {
+        "history_interaction": [
+            "630352138X",
+            "630434063X",
+            "B00006SFIW",
+            "6303142346",
+            "B001UHOWX8",
+            "6301977343",
+            "B00005IBK9",
+            "6302215927",
+            "B00005JL8Z",
+            "B00004YS6O",
+            "6300274268",
+            "6300215695",
+            "B00003CX73",
+            "B00008WI9O",
+            "6300159140",
+            "B00005JKDR",
+            "6301562216",
+            "B00005A07V",
+            "6305199434"
+        ],
+        "user_might_like": [
+            "B0001DYG38",
+            "B000N3T0GO"
+        ],
+        "Conversation": [
+            {
+                "conversation_1": {
+                    "conversation_id": 0,
+                    "user_likes": [
+                        "B001UHOWX8"
+                    ],
+                    "user_dislikes": [],
+                    "rec_item": [
+                        "B0001DYG38"
+                    ]
+                }
+            },
+            {
+                "conversation_2": {
+                    "conversation_id": 1,
+                    "user_likes": [],
+                    "user_dislikes": [
+                        "B00005A07V"
+                    ],
+                    "rec_item": [
+                        "B000N3T0GO"
+                    ]
+                }
+            }
+        ]
+    }
+}
